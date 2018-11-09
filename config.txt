@@ -1,0 +1,5 @@
+token=NTA5NTY4NzQ2OTU3MDQ1NzYx.DsaJvw.S5Np5WZd-rqGgRKrpH1k1xeb6QM
+owner=332549868218220556
+prefix=R
+stayinchannel=true
+songinstatus=true
